@@ -9,6 +9,13 @@ public class OrganizationTest {
 	{
 		System.out.println("create org");
 	}
+	
+	@Test(groups = {"regressionTest"})
+	public void gihub()
+	{
+		/*updated code*/
+		System.out.println("delete org");
+	}
 	@Test(groups = {"regressionTest"})
 	public void modifyOrg()
 	{
