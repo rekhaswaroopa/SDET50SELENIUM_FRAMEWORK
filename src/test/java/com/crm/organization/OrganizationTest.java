@@ -13,7 +13,7 @@ public class OrganizationTest {
 	@Test(groups = {"regressionTest"})
 	public void gihub()
 	{
-		/*updated code*/
+		
 		System.out.println("delete org");
 	}
 	@Test(groups = {"regressionTest"})
