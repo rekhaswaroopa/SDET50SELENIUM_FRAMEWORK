@@ -9,7 +9,7 @@ public class OrganizationTest {
 	{
 		System.out.println("create org");
 	}
-	//hello
+	//hell
 	
 	@Test(groups = {"regressionTest"})
 	public void gihub()
