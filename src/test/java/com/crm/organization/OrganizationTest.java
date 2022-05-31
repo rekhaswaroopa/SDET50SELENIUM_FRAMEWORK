@@ -3,7 +3,7 @@ package com.crm.organization;
 import org.testng.annotations.Test;
 
 public class OrganizationTest {
-	//hello bindhu
+	//hello rekha
 	@Test(groups = {"smokeTest"})
 	public void createOrg()
 	{
